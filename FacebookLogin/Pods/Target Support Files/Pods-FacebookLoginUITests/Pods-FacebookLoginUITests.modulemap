@@ -1,0 +1,6 @@
+framework module Pods_FacebookLoginUITests {
+  umbrella header "Pods-FacebookLoginUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
